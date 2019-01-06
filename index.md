@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## PHP best practicies
+
+1. Use <?php ?> instead all other php tags
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/akirikovich/akirikovich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
